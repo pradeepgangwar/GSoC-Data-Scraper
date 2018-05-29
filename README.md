@@ -2,7 +2,7 @@
 
 ## About
 
-* This can be used to scrape past gsoc pata of any org. This fetched both org information and projects list and displays them in a web page hosted by Django.
+* This can be used to scrape past gsoc data of any org. This fetches both org information and projects list and displays them in a web page hosted by Django.
 
 ## Technology Used:
 
@@ -17,7 +17,7 @@
 * Clone this project.
 * Create Python virtual environment with python version 3.5.2 
   > virtualenv -p python3 venv
-* If you chose to go ith virtualenv, it's time to activate it:
+* If you chose to go with virtualenv, it's time to activate it:
   > source venv/bin/activate
 * Now install all dependencies
   > pip3 install -r requirements.txt
