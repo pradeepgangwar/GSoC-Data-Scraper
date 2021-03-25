@@ -80,7 +80,7 @@ PyPrint==0.2.6
 pyroma==2.2
 python-dateutil==2.6.1
 pytz==2017.3
-PyYAML==3.12
+PyYAML==5.4
 queuelib==1.4.2
 radon==1.4.0
 requests==2.18.4
